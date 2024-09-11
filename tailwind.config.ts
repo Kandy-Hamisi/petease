@@ -11,6 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        peteaseBlack: "#131415",
+        peteaseGrey: "#323539",
+        peteaseLightGrey: "#55585C",
+        peteaseBlue: "#d9e4ed",
+        peteaseYellow: "#ffd37d",
       },
     },
   },
