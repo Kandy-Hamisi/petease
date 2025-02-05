@@ -8,7 +8,7 @@ const TopCommunities = () => {
       <div className='mt-2'>
         <div>
             <Image
-                src="/founder.jpg"
+                src="/cat-79.jpg"
                 alt=''
                 width={200}
                 height={80}

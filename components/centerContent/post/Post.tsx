@@ -9,7 +9,7 @@ const Post = () => {
         <div className=' flex items-center justify-between'>
             <div className='flex items-center gap-2'>
                 <Image
-                    src="/founder.jpg"
+                    src="/maine-coon.jpg"
                     alt=''
                     width={50}
                     height={50}
@@ -38,7 +38,7 @@ const Post = () => {
             {/* image */}
             <div className='relative w-full min-h-64'>
                 <Image
-                    src="/founder.jpg"
+                    src="/cat-15.jpg"
                     alt=''
                     fill
                     className='object-cover rounded-lg'
@@ -66,7 +66,7 @@ const Post = () => {
         {/* postComment */}
         <div className='flex items-center gap-2 my-2'>
             <Image
-                src="/founder.jpg"
+                src="/maine-coon.jpg"
                 alt=''
                 width={50}
                 height={50}
